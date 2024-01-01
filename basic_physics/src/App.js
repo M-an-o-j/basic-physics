@@ -5,6 +5,7 @@ import Home from './layout/Home'
 const App = () => {
   return (
     <div className='my-5'>
+    
       <Home />
     </div>
   )
