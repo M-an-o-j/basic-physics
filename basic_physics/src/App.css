@@ -1,0 +1,13 @@
+.move {
+    animation: moving infinite 5s linear;
+}
+
+
+@keyframes moving {
+  from {
+    left: -10%;
+  }
+  to {
+    left: 100%;
+  }
+}
